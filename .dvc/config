@@ -1,0 +1,7 @@
+[core]
+    analytics = false
+    remote = remote_storage
+['remote "rwmote_storage"']
+    url = /home/daniel_wojciechowski/Documents/projects/dvc_remote
+['remote "remote_storage"']
+    url = /home/daniel_wojciechowski/Documents/projects/dvc_remote
